@@ -1,2 +1,1 @@
-# enterprise-search-using-solr
-Enterprise Search Using Apache Solr
+# Enterprise Search Using Apache Solr
